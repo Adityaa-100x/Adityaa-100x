@@ -246,17 +246,6 @@ Building and shipping web experiences for the campus developer community, from l
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adityaa-100x&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub Trophies" />
-</a>
-
-</div>
-
----
 
 ## Contribution Activity
 
@@ -268,15 +257,6 @@ Building and shipping web experiences for the campus developer community, from l
 
 ---
 
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Adityaa-100x/Adityaa-100x/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-
-</div>
-
----
 
 ## Current Focus
 
