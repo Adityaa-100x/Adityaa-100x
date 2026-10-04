@@ -12,6 +12,7 @@
 ![PSIT](https://img.shields.io/badge/PSIT_Kanpur-Class_of_2028-6D28D9?style=for-the-badge)
 ![CGPA](https://img.shields.io/badge/CGPA-7.5%2F10-4338CA?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Location-New_Delhi,_India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)
+
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sharma-086b8121a/)
@@ -35,7 +36,7 @@ I am a Computer Science undergraduate at **Pranveer Singh Institute of Technolog
 - **AI / ML Engineering** — LLM-powered applications, intent detection, and voice automation built on the Gemini API
 - **Full Stack Development** — React, Node.js, Express, and MongoDB applications built end to end
 - **Product Engineering** — Turning real user problems into shipped, adopted solutions
-- **Community Engineering** — President and Full Stack Developer at Google Developers Group on Campus, PSIT
+- **Community Engineering** — Full Stack Developer at Google Developers Group on Campus, PSIT
 
 ### Open To
 
@@ -249,7 +250,9 @@ Building and shipping web experiences for the campus developer community, from l
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Adityaa-100x&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub Trophies" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adityaa-100x&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub Trophies" />
+</a>
 
 </div>
 
@@ -259,7 +262,7 @@ Building and shipping web experiences for the campus developer community, from l
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityaa-100x&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=6D28D9&hide_border=true" width="100%" alt="Contribution Graph" />
+<img src="https://ghchart.rshah.org/6D28D9/Adityaa-100x" width="100%" alt="Contribution Graph" />
 
 </div>
 
