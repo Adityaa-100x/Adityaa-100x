@@ -35,7 +35,7 @@ I am a Computer Science undergraduate at **Pranveer Singh Institute of Technolog
 - **AI / ML Engineering** — LLM-powered applications, intent detection, and voice automation built on the Gemini API
 - **Full Stack Development** — React, Node.js, Express, and MongoDB applications built end to end
 - **Product Engineering** — Turning real user problems into shipped, adopted solutions
-- **Community Engineering** — Full Stack Developer at Google Developers Group on Campus, PSIT
+- **Community Engineering** — President and Full Stack Developer at Google Developers Group on Campus, PSIT
 
 ### Open To
 
