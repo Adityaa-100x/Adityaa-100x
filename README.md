@@ -11,8 +11,7 @@
 ![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer_Science_%26_Engineering-4C1D95?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![PSIT](https://img.shields.io/badge/PSIT_Kanpur-Class_of_2028-6D28D9?style=for-the-badge)
 ![CGPA](https://img.shields.io/badge/CGPA-7.5%2F10-4338CA?style=for-the-badge)
-![Location](https://img.shields.io/badge/New Delhi,India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)
-
+![Location](https://img.shields.io/badge/Location-New_Delhi,_India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sharma-086b8121a/)
